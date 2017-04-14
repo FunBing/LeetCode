@@ -5,3 +5,5 @@ My LeetCode code.
 4. Median of Two Sorted Arrays: C++
 5. Longest Palindromic Substring: C++
 6. ZigZag Conversion: C++
+7. Reverse Integer: C++
+8. String to Integer (atoi): C++
