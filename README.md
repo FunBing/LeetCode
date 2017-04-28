@@ -22,3 +22,4 @@
 #### 22. Generate Parentheses: C++
 #### 24. Swap Nodes in Pairs: C++
 #### 26. Remove Duplicates from Sorted Array: C++
+#### 27. Remove Element: C++
