@@ -26,3 +26,4 @@
 #### 28. Implement strStr(): C++
 #### 29. Divide Two Integers: C++
 #### 31. Next Permutation: C++
+#### 32. Longest Valid Parentheses: C++
