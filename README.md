@@ -27,3 +27,4 @@
 #### 29. Divide Two Integers: C++
 #### 31. Next Permutation: C++
 #### 32. Longest Valid Parentheses: C++
+#### 33. Search in Rotated Sorted Array: C++
