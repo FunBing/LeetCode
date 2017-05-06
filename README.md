@@ -31,3 +31,4 @@
 #### 34. Search for a Range: C++
 #### 35. Search Insert Position: C++
 #### 36. Valid Sudoku: C++
+#### 38. Count and Say： C++
