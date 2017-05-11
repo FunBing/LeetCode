@@ -34,3 +34,4 @@
 #### 38. Count and Say： C++
 #### 39. Combination Sum: C++
 #### 40. Combination Sum II: C++
+#### 43. Multiply Strings: C++
