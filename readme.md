@@ -35,3 +35,4 @@
 #### 39. Combination Sum: C++
 #### 40. Combination Sum II: C++
 #### 43. Multiply Strings: C++
+#### 46. Permutations: C++
