@@ -37,3 +37,4 @@
 #### 43. Multiply Strings: C++
 #### 46. Permutations: C++
 #### 47. Permutations II: C++
+#### 48. Rotate Image: C++
