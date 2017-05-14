@@ -39,3 +39,4 @@
 #### 47. Permutations II: C++
 #### 48. Rotate Image: C++
 #### 49. Group Anagrams: C++
+#### 50. Pow(x, n): C++
