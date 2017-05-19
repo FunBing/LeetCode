@@ -44,3 +44,4 @@
 #### 54. Spiral Matrix: C++
 #### 55. Jump Game: C++
 #### 56. Merge Intervals: C++
+#### 58. Length of Last Word: C++
