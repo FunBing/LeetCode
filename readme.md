@@ -46,3 +46,6 @@
 #### 56. Merge Intervals: C++
 #### 58. Length of Last Word: C++
 #### 59. Spiral Matrix II: C++
+#### 60. Permutation Sequence: C++
+#### 61. Rotate List: C++
+#### 62. Unique Paths: C++
