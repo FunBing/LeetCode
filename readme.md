@@ -53,3 +53,4 @@
 #### 64. Minimum Path Sum: C++
 #### 66. Plus One: C++
 #### 67. Add Binary: C++
+#### 69. Sqrt(x): C++
