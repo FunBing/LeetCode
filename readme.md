@@ -52,3 +52,4 @@
 #### 63. Unique Paths II: C++
 #### 64. Minimum Path Sum: C++
 #### 66. Plus One: C++
+#### 67. Add Binary: C++
